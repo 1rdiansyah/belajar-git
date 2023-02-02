@@ -1,4 +1,5 @@
-function kalikanAngka(angka1, angka2) {
-        return angka1 * angka2;
-    }
-    console.log(kalikanAngka(4, 10));
+const add = (a, b) => a + b;
+console.log (add(1,2));
+
+const subtract = (a, b) => a - b;
+console.log (subtract(5,2));
